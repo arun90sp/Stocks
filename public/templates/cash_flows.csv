@@ -1,0 +1,2 @@
+account_name,flow_date,flow_type,amount,reference,notes
+Zerodha,2025-01-01,ADD,100000,BANKREF123,Initial funding

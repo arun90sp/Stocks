@@ -1,0 +1,2 @@
+account_name,symbol,exchange,trade_date,side,quantity,price,fees,taxes,order_id,notes
+Zerodha,INFY,NSE,2025-01-10,BUY,10,1500,10,2,ORD001,Initial buy
