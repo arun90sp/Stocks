@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+server/target/
+*.log
+stocksdb.mv.db
+stocksdb.trace.db
